@@ -1,0 +1,92 @@
+1. Add Expense
+2. Delete Expense
+3. View Expenses
+4. View Category Totals
+5. View Expenses by Date Range
+6. View Summary
+7. Exit
+1
+
+Enter description: Groceries
+Enter amount: 150.75
+Enter category: Food
+Enter date (YYYY-MM-DD): 2024-07-01
+
+1. Add Expense
+2. Delete Expense
+3. View Expenses
+4. View Category Totals
+5. View Expenses by Date Range
+6. View Summary
+7. Exit
+1
+
+Enter description: Electricity Bill
+Enter amount: 60.40
+Enter category: Utilities
+Enter date (YYYY-MM-DD): 2024-07-10
+
+1. Add Expense
+2. Delete Expense
+3. View Expenses
+4. View Category Totals
+5. View Expenses by Date Range
+6. View Summary
+7. Exit
+3
+
+Expenses:
+1. Groceries - $150.75 (Food) on 2024-07-01
+2. Electricity Bill - $60.40 (Utilities) on 2024-07-10
+
+1. Add Expense
+2. Delete Expense
+3. View Expenses
+4. View Category Totals
+5. View Expenses by Date Range
+6. View Summary
+7. Exit
+4
+
+Category Totals:
+Food: $150.75
+Utilities: $60.40
+
+1. Add Expense
+2. Delete Expense
+3. View Expenses
+4. View Category Totals
+5. View Expenses by Date Range
+6. View Summary
+7. Exit
+5
+
+Enter start date (YYYY-MM-DD): 2024-07-01
+Enter end date (YYYY-MM-DD): 2024-07-05
+
+Expenses from 2024-07-01 to 2024-07-05:
+1. Groceries - $150.75 (Food) on 2024-07-01
+
+1. Add Expense
+2. Delete Expense
+3. View Expenses
+4. View Category Totals
+5. View Expenses by Date Range
+6. View Summary
+7. Exit
+6
+
+Summary:
+Total Expenses: $211.15
+Average Expense: $105.575
+
+1. Add Expense
+2. Delete Expense
+3. View Expenses
+4. View Category Totals
+5. View Expenses by Date Range
+6. View Summary
+7. Exit
+7
+
+Expenses saved. Exiting...
